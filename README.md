@@ -23,13 +23,13 @@
 |📲🪙| [Himera](https://t.me/himeraeasybroworkxoxix_bot?start=406840159)| Telegram-бот, работающий в рамках законодательства РФ. Находит профили в соцсетях и предоставляет достоверные сведения.|
 |📲🪙🆓| [Фанстат](https://t.me/fansfatorbot?start=01083996516B74617466)| Продвинутый бот для аналитики Telegram: отслеживание аккаунтов, поиск пользователей, просмотр сообщений в чатах.|
 |📲♻️| [LeakOSINT](https://t.me/deepleaks_bot?start=P6e02W)| Международный сервис поиска по множеству параметров и соцсетей. Не поддерживает российские аккаунты Telegram.|
-|📲♻️🆓| [Discord Sensor](https://t.me/discordsensorbot?start=kentId406840159)| Специализированный инструмент для анализа и сбора данных в Discord.|
+|📲♻️🆓| [Discord Sensor](https://t.me/sensors_discord_bot?start=kentId406840159)| Специализированный инструмент для анализа и сбора данных в Discord.|
 |📲🆓| [VKHistoryRobot](https://t.me/VKHistoryRobot)| Бот, показывающий архивные версии страниц ВКонтакте, включая уже удалённую информацию.|
 |🌐🆓| [Search4Faces](https://search4faces.com/index.html)| Мощный поисковик по изображениям в странах СНГ. Находит профили пользователей по фото.|
 |🌐🆘🆓| [VK Nebaz](https://nebaz.ru/)| Архив страниц ВКонтакте. Отображает подписки, друзей, сообщества и интересы пользователей.|
 |🌐🆘♻️🆓| [SteamID](https://steamid.uk/)| Сервис глубокого анализа профилей в Steam с большой базой игроков и архивными данными.|
 
-Каждый сервис имеет свои сильные стороны. Для эффективного поиска можно комбинировать инструменты, предназначенные для работы с [ВКонтакте](https://github.com/osint-and-search/OSINT_i_probiv_VKontakte), [Инстаграмом](https://github.com/osint-and-search/OSINT_i_probiv_Instagram), [Одноклассниками](https://github.com/osint-and-search/OSINT_i_probiv_Odnoklassniki) или [Фейсбуком](https://github.com/osint-and-search/OSINT_i_probiv_Facebook), а также подключать отдельные решения для [WhatsApp](https://github.com/osint-and-search/OSINT_i_probiv_WhatsApp) и [Telegram](https://github.com/osint-and-search/osint-v-telegram-boty-poisk-i-instrumenty). Важно соблюдать этичные принципы при работе с данными.
+Каждый сервис имеет свои сильные стороны. Для эффективного поиска можно комбинировать инструменты, предназначенные для работы с [ВКонтакте](https://github.com/osint-and-search/OSINT_i_poisk_VKontakte), [Инстаграмом](https://github.com/osint-and-search/OSINT_i_poisk_v_Instagram), [Одноклассниками](https://github.com/osint-and-search/OSINT_i_poisk_v_Odnoklassniki) или [Фейсбуком](https://github.com/osint-and-search/OSINT_i_poisk_v_Facebook), а также подключать отдельные решения для [WhatsApp](https://github.com/osint-and-search/OSINT_i_poisk_v_WhatsApp) и [Telegram](https://github.com/osint-and-search/osint-v-telegram-boty-poisk-i-instrumenty). Важно соблюдать этичные принципы при работе с данными.
 
 Пробив и поиск по социальным сетям и мессенджерам давно перестали быть просто развлечением — это рабочий инструмент аналитики, обеспечения безопасности и ведения бизнеса. Применяйте методы ответственно и только в законных целях.
 
